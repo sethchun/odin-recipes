@@ -1,3 +1,8 @@
+/* Whole Page Style */
+body {
+    margin: 0 2.5%;
+}
+
 /* Navigation */
 /* Cleans up and centers navigation at the top of the page */
 .navigation {
@@ -19,4 +24,9 @@
     text-decoration: none;
     font-size: x-large;
     font-weight: bold;
+}
+
+/* Hero */
+.heroContainer {
+    display: flex;
 }
