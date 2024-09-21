@@ -1,3 +1,13 @@
-h1 {
-    color: red;
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation ul {
+    display: flex;
+    gap: 15px;
+}
+
+.navigation ul li {
+    list-style: none;
 }
