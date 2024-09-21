@@ -1,3 +1,5 @@
+/* Navigation */
+/* Cleans up and centers navigation at the top of the page */
 .navigation {
     display: flex;
     justify-content: center;
