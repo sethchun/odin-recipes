@@ -29,4 +29,10 @@ body {
 /* Hero */
 .heroContainer {
     display: flex;
+    justify-content: center;
+}
+
+.heroSection2 img {
+    height: auto;
+    max-width: 500px;
 }
