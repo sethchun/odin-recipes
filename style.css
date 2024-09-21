@@ -3,6 +3,7 @@
 .navigation {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .navigation ul {
@@ -12,4 +13,10 @@
 
 .navigation ul li {
     list-style: none;
+}
+
+#homeButton {
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
 }
